@@ -32,9 +32,9 @@ Follow these hotkey instructions during gameplay:
 - **05/03/2026:** Official public release, free to use for the community.
 
 ## 📸 Menu Demo
-![Menu Demo 1](./image/photo_6150207819018341911_y.jpg)
-![Menu Demo 2](./image/photo_6150207819018341912_y.jpg)
-![Menu Demo 3](./image/photo_6150207819018341913_y.jpg)
+![Menu Demo 1](https://raw.githubusercontent.com/phaoDMA/PUBG-DMA/main/image/photo_6150207819018341911_y.jpg)
+![Menu Demo 2](https://raw.githubusercontent.com/phaoDMA/PUBG-DMA/main/image/photo_6150207819018341912_y.jpg)
+![Menu Demo 3](https://raw.githubusercontent.com/phaoDMA/PUBG-DMA/main/image/photo_6150207819018341913_y.jpg)
 
 ## 🔄 Update Status
 **Note:** This project is **updated daily** to improve features, update offsets, and ensure optimal performance. Please follow the repository regularly for the latest updates.
